@@ -1,0 +1,17 @@
+# Audio capture (Windows WASAPI loopback)
+pyaudiowpatch
+numpy
+
+# ASR Engine
+funasr
+torchaudio
+torch
+
+# AI Analysis
+openai
+
+# UI
+PySide6==6.7.0
+
+# Build
+pyinstaller
